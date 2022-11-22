@@ -1,6 +1,5 @@
 ### Oie 🐱‍💻
 
-- 🔭 Hoje trabalho com back-end C#
 - ✔ Pronouns: ela/dela
 <div align="center">
   <a href="https://github.com/malluqf">
